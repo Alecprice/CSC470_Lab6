@@ -1,0 +1,14 @@
+C:\Users\alecj\OneDrive\Desktop\C# Class\Labs\Lab6\Lab6\Lab6\bin\Debug\Lab6.exe
+C:\Users\alecj\OneDrive\Desktop\C# Class\Labs\Lab6\Lab6\Lab6\bin\Debug\Lab6.pdb
+C:\Users\alecj\OneDrive\Desktop\C# Class\Labs\Lab6\Lab6\Lab6\obj\Debug\Lab6.csprojAssemblyReference.cache
+C:\Users\alecj\OneDrive\Desktop\C# Class\Labs\Lab6\Lab6\Lab6\obj\Debug\MainWindow.g.cs
+C:\Users\alecj\OneDrive\Desktop\C# Class\Labs\Lab6\Lab6\Lab6\obj\Debug\App.g.cs
+C:\Users\alecj\OneDrive\Desktop\C# Class\Labs\Lab6\Lab6\Lab6\obj\Debug\Lab6_MarkupCompile.cache
+C:\Users\alecj\OneDrive\Desktop\C# Class\Labs\Lab6\Lab6\Lab6\obj\Debug\Lab6_MarkupCompile.lref
+C:\Users\alecj\OneDrive\Desktop\C# Class\Labs\Lab6\Lab6\Lab6\obj\Debug\MainWindow.baml
+C:\Users\alecj\OneDrive\Desktop\C# Class\Labs\Lab6\Lab6\Lab6\obj\Debug\Lab6.g.resources
+C:\Users\alecj\OneDrive\Desktop\C# Class\Labs\Lab6\Lab6\Lab6\obj\Debug\Lab6.Properties.Resources.resources
+C:\Users\alecj\OneDrive\Desktop\C# Class\Labs\Lab6\Lab6\Lab6\obj\Debug\Lab6.csproj.GenerateResource.cache
+C:\Users\alecj\OneDrive\Desktop\C# Class\Labs\Lab6\Lab6\Lab6\obj\Debug\Lab6.csproj.CoreCompileInputs.cache
+C:\Users\alecj\OneDrive\Desktop\C# Class\Labs\Lab6\Lab6\Lab6\obj\Debug\Lab6.exe
+C:\Users\alecj\OneDrive\Desktop\C# Class\Labs\Lab6\Lab6\Lab6\obj\Debug\Lab6.pdb
